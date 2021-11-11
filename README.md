@@ -6,7 +6,7 @@ A bit of information about me:
 - 🔭 If it's a weekend I'm probably working on a Hackathon Project. Check out the latest one [here](https://github.com/Wolverine1122/wall-of-shame)
 - 🌱 I’m currently learning SQL and Machine Learning in Python.
 - 💬 Ask me about what I'm working on or anything really.
-- 📫 [Email](joelshaw@knights.ucf.edu) is the best way to reach me :)
+- 📫 [Email](joelshaw@knights.ucf.edu) is the best way to reach me. :)
 <!--
 **JoelShaw0/JoelShaw0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
