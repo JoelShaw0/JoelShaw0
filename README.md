@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there!
 
-I'm Joel! It's nice to meet you. I'm currently a Computer Engineering Student at the University of Central Florida.
+I'm Joel and i'm currently a Computer Engineering Student at the University of Central Florida.
 
 A bit of information about me:
 - 🔭 If it's a weekend I'm probably working on a Hackathon or Game Jam Project. Check out the latest one [here](https://github.com/JoelShaw0/3D-Prototype).
