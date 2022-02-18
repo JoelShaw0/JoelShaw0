@@ -3,7 +3,7 @@
 I'm Joel and i'm currently a Computer Engineering Student at the University of Central Florida.
 
 A bit of information about me:
-- 🔭 If it's a weekend I'm probably working on a Hackathon or Game Jam Project. Check out the latest one [here](https://github.com/JoelShaw0/3D-Prototype).
+- 🔭 Check out my latest project [here](https://github.com/JoelShaw0/3D-Prototype).
 - 🌱 I’m currently learning SQL, LaTeX and Microsoft Power Apps.
 - 💬 Ask me about what I'm working on or anything really.
 - 📫 Email (joelshaw@knights.ucf.edu) is the best way to reach me. :)
