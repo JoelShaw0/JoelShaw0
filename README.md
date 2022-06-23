@@ -4,7 +4,7 @@ I'm Joel and i'm currently a Computer Engineering Student at the University of C
 
 A bit of information about me:
 - 🔭 Check out my latest project [here](https://github.com/JoelShaw0/3D-Prototype).
-- 🌱 I’m currently learning Microsoft Sharepoint, Python's Pandas Library and Microsoft Power BI.
+- 🌱 I’m currently learning Microsoft Sharepoint, Python's Pandas Library, and Microsoft Power BI.
 - 💬 Ask me about what I'm working on or anything really.
 - 📫 Email (joelshaw@knights.ucf.edu) is the best way to reach me. :)
 <!--
