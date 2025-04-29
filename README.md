@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Joel and i'm currently a Computer Engineering Student at the University of Central Florida.
+I'm Joel and i'm currently a Software Engineer in the Central Florida Area.
 
 A bit of information about me:
 - 🔭 Check out my latest project [here](https://github.com/JoelShaw0/3D-Prototype).
